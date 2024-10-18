@@ -16,6 +16,7 @@ A otimização da carteira é realizada utilizando a biblioteca `scipy.optimize`
 
 ## Estrutura do Repositório
 portfolio-optimization/
+```
 │
 ├── src/
 │ ├── portfolio_optimizer.py # Lógica principal da otimização da carteira
