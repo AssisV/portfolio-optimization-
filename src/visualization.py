@@ -1,4 +1,4 @@
-def plot_asset_allocation(weights, tickers):
+def plot_asset_allocation(weights, tickers): 
     """
     Plota a alocação dos ativos na carteira.
 
