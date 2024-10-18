@@ -1,4 +1,4 @@
-class PortfolioOptimizer:
+class PortfolioOptimizer: 
     def __init__(self, tickers, risk_limit):
         """
         Inicializa o otimizador de carteira com os ativos e limite de risco.
