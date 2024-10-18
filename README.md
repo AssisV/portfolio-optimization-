@@ -15,8 +15,8 @@ A otimização da carteira é realizada utilizando a biblioteca `scipy.optimize`
 - **Limites**: Os pesos dos ativos na carteira são restritos a um intervalo definido (por exemplo, entre 5% e 20%).
 
 ## Estrutura do Repositório
-portfolio-optimization/
 ```
+portfolio-optimization/
 │
 ├── src/
 │ ├── portfolio_optimizer.py # Lógica principal da otimização da carteira
@@ -31,7 +31,7 @@ portfolio-optimization/
 │
 ├── README.md # Este arquivo
 └── requirements.txt # Dependências necessárias para o projeto
-
+```
 
 ## Instruções de Instalação e Execução
 
