@@ -1,4 +1,4 @@
-def main():
+def main(): 
    all_tickers = get_all_tickers()  # Obtenha todos os tickers disponíveis
    
    risk_limit = 0.38  # Limite de risco 0.38
