@@ -1,4 +1,4 @@
-def get_all_tickers():
+def get_all_tickers(): 
     """
     Obtém uma lista de tickers disponíveis na bolsa.
     
